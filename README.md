@@ -4,7 +4,7 @@ A lightweight Python/Streamlit application that helps groups track shared expens
 
 ---
 ## 🌐 Live Demo
-[Click here to try the app](https://yourwebsite.com)
+[Click here to try the app](https://splitwize.streamlit.app/)
 
 ## 🚀 Project Overview
 
