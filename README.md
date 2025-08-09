@@ -3,6 +3,8 @@
 A lightweight Python/Streamlit application that helps groups track shared expenses, view individual balances in real time, and compute the minimal set of payments required to settle up.
 
 ---
+## 🌐 Live Demo
+[Click here to try the app](https://yourwebsite.com)
 
 ## 🚀 Project Overview
 
